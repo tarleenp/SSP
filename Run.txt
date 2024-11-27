@@ -1,2 +1,0 @@
-Firstly execute all codes in single cmd
-secondly after server started open another cmd and run MathClient file
